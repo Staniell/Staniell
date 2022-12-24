@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a NextJS app with ML/AI features.
 - 🌱 I’m currently learning NextJS, Spring, React Native, & Django.
-
+<!--
 [![Staniell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Staniell&show_icons=true&theme=tokyonight)](https://github.com/Staniell/github-readme-stats)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Staniell&layout=compact&hide=html,css&show_icons=true&theme=tokyonight)](https://github.com/Staniell/github-readme-stats)
