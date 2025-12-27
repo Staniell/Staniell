@@ -1,5 +1,5 @@
-# Gio Staniell Belolo  
-**Senior Full Stack Engineer**  
+# Hi! Im Gio!  
+**Full Stack Engineer**  
 Building scalable, high-impact web platforms from zero → production.
 
 🌍 Remote (PH) · VC-backed startup experience  
