@@ -1,4 +1,4 @@
-# Hi! Im Gio!  
+# Hi! I'm Gio!  
 **Full Stack Engineer**  
 Building scalable, high-impact web platforms from zero → production.
 
