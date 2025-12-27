@@ -35,7 +35,7 @@ I focus on building systems that balance **performance, maintainability, and rea
 - Vue.js, Svelte
 
 ### Backend
-- **NestJS**, Node.js
+- **NestJS**, Node.js, Prisma
 - GraphQL, Hasura
 - PostgreSQL, MongoDB
 
