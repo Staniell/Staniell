@@ -99,8 +99,8 @@ OnlyHate explores information filtering, browser internals, and UX trade-offs in
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Staniell&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Staniell&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+![Followers](https://img.shields.io/github/followers/Staniell?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Staniell?style=flat-square)
 
 ---
 
