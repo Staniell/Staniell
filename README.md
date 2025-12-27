@@ -95,38 +95,12 @@ Key features:
 - Lightweight tooling built for hostile, constantly mutating DOM environments
 
 OnlyHate explores information filtering, browser internals, and UX trade-offs in modern content platforms.
-
----
-
-## 🏢 Experience
-
-### **VoyceMe** — Software Engineer  
-*Feb 2023 – Present · Remote (US/NYC)*
-
-- Led migration of legacy codebases to modern, maintainable architectures
-- Built creator tooling that increased content creation speed by **80%**
-- Improved frontend caching strategies, increasing customer satisfaction by **83%**
-- Developed AI-powered features that significantly boosted engagement and retention
-
-**Previously:** Software Engineer Intern  
-- Built internal CMS tooling for admins
-- Implemented real-time social and interaction features
-
----
-
-### **ChatGenie.ph** — Software Engineer Intern  
-*Mar 2023 – Jun 2023*
-
-- Shipped **3 full-stack applications**
-- Collaborated closely with cross-functional teams
-- Owned features from implementation to deployment
-
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Staniell&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Staniell&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Staniell&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Staniell&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
 
 ---
 
