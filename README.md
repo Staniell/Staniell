@@ -1,115 +1,43 @@
-# Hi! I'm Gio!  
-**Full Stack Engineer**  
-Building scalable, high-impact web platforms from zero → production.
+# hey, i'm gio
 
-🌍 Remote (PH) · VC-backed startup experience  
-🔗 Portfolio: https://staniell.vercel.app  
-📫 Email: giostaniell14@gmail.com  
+i build things on the web. mostly full stack stuff — if it runs in a browser or on a server, i'm probably into it. Lately mobile apps as well.
 
----
+## things i work with
 
-## 👋 About Me
+**languages**
 
-Full Stack Engineer with experience across **early-stage to Series A startups**, specializing in **scalable frontend architectures, backend systems, and AI-powered features**.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Staniell&layout=compact&theme=dark&langs_count=10)
 
-I focus on building systems that balance **performance, maintainability, and real product impact**.
+**frontend**
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 🧠 What I’m Known For
+**backend**
 
-- Migrating legacy systems to modern architectures without breaking production
-- Owning features end-to-end: design → implementation → deployment
-- Designing frontend systems that scale with teams
-- Applying AI and automation to real user problems
-- Strong bias toward performance, DX, and long-term maintainability
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+## stuff i've built
 
-## 🛠 Tech Stack
+**[Musebound](https://musebound.art/)** — a creative platform where AI acts as a muse, not an author. artists create, AI assists.
 
-### Frontend
-- **Next.js (App Router)**
-- React, TypeScript
-- Tailwind CSS
-- Vue.js, Svelte
+**[Listify](https://listify-store.vercel.app/)** — marketplace app with real-time messaging, stripe payments, and seller storefronts.
 
-### Backend
-- **NestJS**, Node.js, Prisma
-- GraphQL, Hasura
-- PostgreSQL, MongoDB
+**[OnlyHate](https://github.com/Staniell/OnlyHate)** — browser extension that filters youtube comments to only show the spicy ones.
 
-### Cloud & Infra
-- AWS (Amplify, S3, Redshift, Glue)
-- Azure
-- CI/CD pipelines
-- Caching & performance optimization
-
----
-
-## 🚀 Selected Projects
-
-### **Musebound**  
-🔗 https://musebound.art/
-
-Musebound is a **human-first creative platform for artists**, designed to support creativity rather than replace it.
-
-Artists can:
-- Create art manually using a digital canvas
-- Receive **AI-assisted guidance powered by Gemini models**, including suggestions, refinements, and analysis
-- Share not only finished artworks, but the **creative process** behind them
-
-AI in Musebound acts as a **muse, not an author**, enhancing artistic intent instead of overriding it.
-
-The platform includes a monetization layer with:
-- Subscription-based access
-- One-time purchases
-- Secure payment integration via **PayPal**
-
----
-
-### **Listify**  
-🔗 https://listify-store.vercel.app/
-
-A modern marketplace-style web application for building, organizing, and monetizing structured content and collections.
-
-Core features:
-- Real-time messaging powered by **Supabase Broadcast**, enabling live interactions between users
-- Seller and buyer payment flows integrated via **Stripe**
-- Seller-owned storefronts that allow creators to earn directly from their listings
-- Scalable, modular frontend architecture with strong UX and performance focus
-
-Listify enables creators to operate independently while handling payments, messaging, and product management seamlessly.
-
----
-
-### **OnlyHate**  
-🔗 https://github.com/Staniell/OnlyHate
-
-A browser extension that filters and surfaces **negative or critical comments** on platforms like YouTube, allowing users to focus on sentiment-specific feedback.
-
-Key features:
-- Real-time filtering of dynamically loaded comments
-- Rule-based sentiment detection with extensible architecture
-- Designed for future NLP and LLM-based classification
-- Lightweight tooling built for hostile, constantly mutating DOM environments
-
-OnlyHate explores information filtering, browser internals, and UX trade-offs in modern content platforms.
----
-
-## 📈 GitHub Stats
+## github stats
 
 ![Followers](https://img.shields.io/github/followers/Staniell?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/Staniell?style=flat-square)
 
----
+## reach me
 
-## 🤝 Let’s Build
-
-If you’re building:
-- AI-powered platforms
-- Scalable frontend systems
-- Developer tooling or browser extensions
-- Products that require ownership from idea → production
-
-Feel free to reach out.
+[![Email](https://img.shields.io/badge/giostaniell14@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giostaniell14@gmail.com)
+[![Portfolio](https://img.shields.io/badge/staniell.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://staniell.vercel.app)
